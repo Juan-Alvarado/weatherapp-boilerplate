@@ -1,6 +1,3 @@
-👀 👀 👀 
-
-
 # Preact Boilerplate / Starter Kit for a Weather App
 
 ## Set-Up Guide
