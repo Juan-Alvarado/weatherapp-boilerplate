@@ -70,8 +70,7 @@ npm start
 
 - The CSS pre-processor in use is Less. You don't have to worry about the syntax and just write in normal CSS as there are helper modules to assist you (located in `style/helpers`).
 
-- There are many weather APIs out there; this boilerplate uses WeatherUnderground, which I highly recommend for any detailed info you may need; sign up is free and you can find out more about it here : 
-https://www.wunderground.com/weather/api/d/docs?MR=1 There's also a console, where you can check out particular responses : https://apigee.com/console/wunderground
+- There are many weather APIs out there; this boilerplate uses OpenWeatherMap. Sign up, is free and you can find out more about it here : https://openweathermap.org/api 
 
 - Most importantly, have fun with it ! 👌
 
