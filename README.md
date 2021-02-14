@@ -30,6 +30,15 @@ rm -rf .git && git init && npm init
 
 > :information_source: Command above re-initializes the repo and sets up your NPM project.
 
+**2a. Make it your own (Windows):**
+
+If you are using Windowsyou can run the three necessary comand using Powershell. You mught need elevated privileges.
+
+```sh
+rm -r -fo .git
+git init 
+npm init
+```
 
 **3. Install the dependencies :**
 
